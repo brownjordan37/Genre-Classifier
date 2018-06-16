@@ -18,7 +18,6 @@
 
 # for all inputted documents
 #  tokenize and create a bag of word to obtain the percentages of them
-`
 # cases will be assigned to what data is being 
 # 	worked on in noted section
 
